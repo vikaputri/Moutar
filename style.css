@@ -7,6 +7,11 @@ a {
   color: #000;
 }
 
+.title{
+  padding-top: 40px;
+  margin-left: 20px;
+}
+
 /* header */
 .header {
   background-color: #fff;
@@ -121,11 +126,6 @@ a {
   background-size: cover;
   background-position: center;
   padding: 140px;
-}
-
-.title{
-  padding-top: 40px;
-  margin-left: 20px;
 }
 
 /* Project */
