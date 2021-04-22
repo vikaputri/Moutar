@@ -6,4 +6,5 @@
 Task Recreate Page : https://vikaputri.github.io/Moutar/steady.html
 
 Task CSS : https://vikaputri.github.io/Moutar/
-4. SQL : https://github.com/vikaputri/Moutar/blob/master/SQL.pdf
+
+3. SQL : https://github.com/vikaputri/Moutar/blob/master/SQL.pdf
