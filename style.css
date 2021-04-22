@@ -123,6 +123,11 @@ a {
   padding: 140px;
 }
 
+.title{
+  padding-top: 40px;
+  margin-left: 20px;
+}
+
 /* Project */
 .project .gambar{
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
